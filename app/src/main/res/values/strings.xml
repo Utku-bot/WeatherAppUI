@@ -13,4 +13,6 @@
     <string name="card2_derece">17 °</string>
     <string name="card3_tarih">27 Aug</string>
     <string name="card3_derece">21 °</string>
+    <string name="wind_icon">TODO</string>
+    <string name="sehir">İstanbul</string>
 </resources>
