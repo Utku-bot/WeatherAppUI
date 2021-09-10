@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">WeatherAppUI</string>
+
+    <string name="havaDurumu">Storm</string>
+    <string name="rüzgar">40km</string>
+    <string name="nem">14%</string>
+    <string name="image">Image</string>
+    <string name="derece">20°</string>
+    <string name="hudidity">Hudidity</string>
+    <string name="card1_tarih">25 Aug</string>
+    <string name="card1_derece">24 °</string>
+    <string name="card2_tarih">26 Aug</string>
+    <string name="card2_derece">17 °</string>
+    <string name="card3_tarih">27 Aug</string>
+    <string name="card3_derece">21 °</string>
+</resources>
