@@ -1,4 +1,4 @@
 # WeatherAppUI
 
 
-![GitHub Logo](/images/github-logo.png)
+![Screenshot](/Screenshots/Screenshot_4.png)
